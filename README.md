@@ -5,5 +5,6 @@
 
 后来找到了[ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)这个库，可以用RecyclerView实现流式布局，自动换行
 
-因此就自己写了个,做下笔记
+因此就自己写了个,做下笔记，简书：[https://www.jianshu.com/p/f7c7a733f250](https://www.jianshu.com/p/f7c7a733f250)
+
 ![可编辑tag.gif](https://upload-images.jianshu.io/upload_images/20878860-ee0cd942d383cb8a.gif?imageMogr2/auto-orient/strip)
