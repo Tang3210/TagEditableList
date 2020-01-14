@@ -1,0 +1,2 @@
+# TagEditableList
+使用RecyclerView实现可以设置选中的个数，长按进行编辑
